@@ -11,5 +11,6 @@
 
     <modules>
         <module>rabbitmq</module>
+        <module>asynchronous</module>
     </modules>
 </project>
