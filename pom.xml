@@ -12,5 +12,6 @@
     <modules>
         <module>rabbitmq</module>
         <module>asynchronous</module>
+        <module>elasticsearch</module>
     </modules>
 </project>

@@ -1,0 +1,10 @@
+server:
+  port: 9990
+
+spring:
+  data:
+    elasticsearch:
+      cluster-name: docker-cluster # 必须要和es服务的名称一致(可访问es服务如127.0.0.1:9200查看)
+      cluster-nodes: 127.0.0.1:9300
+      repositories:
+        enabled: true

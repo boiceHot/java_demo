@@ -8,3 +8,7 @@ rabbitmq的应用
 ## asynchronous
 并发、异步的应用
 - 异步
+
+## elasticsearch
+搜索引擎
+- 查询单个数据
