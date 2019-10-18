@@ -13,5 +13,6 @@
         <module>rabbitmq</module>
         <module>asynchronous</module>
         <module>elasticsearch</module>
+        <module>process_memory</module>
     </modules>
 </project>
