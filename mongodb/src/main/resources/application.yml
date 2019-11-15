@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      database: mpn
+      username: admin
+      password: OWPzWDGgn5HFycrb
+      authentication-database: admin
+      host: 49.235.235.214
+      port: 27017

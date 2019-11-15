@@ -6,7 +6,7 @@ rabbitmq的应用
 - 死信
 
 ## asynchronous
-并发、异步的应用
+并发、异步、并行的应用
 - 异步
 
 ## elasticsearch
