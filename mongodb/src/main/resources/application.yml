@@ -3,5 +3,5 @@ spring:
     active: dev
   data:
     mongodb:
-      uri: mongodb://root:123456x@47.106.232.11:27017,47.106.232.11:27018,47.106.232.11:27019/mpn?replicaSet=BigBoss
+      uri: mongodb://root:123456x@127.0.0.1:27017,127.0.0.1:27018,127.0.0.1:27019/mpn?replicaSet=BigBoss
       authentication-database: admin
