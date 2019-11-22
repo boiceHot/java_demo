@@ -1,9 +1,7 @@
 spring:
+  profiles:
+    active: dev
   data:
     mongodb:
-      database: mpn
-      username: admin
-      password: OWPzWDGgn5HFycrb
+      uri: mongodb://root:123456x@47.106.232.11:27017,47.106.232.11:27018,47.106.232.11:27019/mpn?replicaSet=BigBoss
       authentication-database: admin
-      host: 49.235.235.214
-      port: 27017
