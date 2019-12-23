@@ -10,7 +10,7 @@ import java.io.Serializable;
  * @Author: boiceHot
  * @Date: 2019-11-15
  */
-@Document(value = "users")
+@Document(value = "zxcvb")
 public class Users implements Serializable {
     private static final long serialVersionUID = -3163675414100712890L;
 
